@@ -1,7 +1,5 @@
 Hello World!! 👋👋
 
-- Em Busca de Oportunidades
-- 📚 Estudando: JavaScript
 - 📧 email: ganzalamatheus@gmail.com
 
 <div>
@@ -24,6 +22,7 @@ Hello World!! 👋👋
  <div> 
  
   <a href="https://www.linkedin.com/in/matheus-ganzala-nunes-teixeira-276b4415b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+   
  
 </div>
 
