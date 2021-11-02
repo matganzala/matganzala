@@ -1,6 +1,6 @@
 Hello World!! 👋👋
 
-- 📧 email: ganzalamatheus@gmail.com
+📧 email: ganzalamatheus@gmail.com
 
 <div>
   <a href="https://github.com/matganzala">
