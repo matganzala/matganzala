@@ -2,10 +2,7 @@ Hello World!! 👋👋
 
 - Em Busca de Oportunidades
 - 📚 Estudando: JavaScript
-- 📚 Brincando com Arduino
 - 📧 email: ganzalamatheus@gmail.com
-
-##
 
 <div>
   <a href="https://github.com/matganzala">
