@@ -2,7 +2,6 @@ Hello World!! 👋👋
 
 📧 email: ganzalamatheus@gmail.com 
 <br>
-site: https://maintheus.netlify.app/
 
 <div>
   <a href="https://github.com/matganzala">
