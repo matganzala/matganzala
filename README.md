@@ -18,7 +18,7 @@ Hello World!! 👋👋
   <img align="center" alt="mat-vscode" height="30" width="30" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="mat-git" height="30" width="30" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  </div> 
- 
+ <br>
   
  <div style "display: inline-block">
   <a height="30" width="30" href="https://www.linkedin.com/in/matheus-ganzala-nunes-teixeira-276b4415b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
