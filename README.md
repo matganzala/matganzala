@@ -15,15 +15,12 @@ Hello World!! 👋👋
   <img align="center" alt="mat-postgresql" height="30" width="30" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="mat-linux" height="30" width="30" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="mat-vscode" height="30" width="30" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="mat-vscode" height="30" width="30" img src="hhttps://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"" />
+  <img align="center" alt="mat-vscode" height="30" width="30" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  </div>
   
  ##
   
  <div> 
- 
-  <a href="https://www.linkedin.com/in/matheus-ganzala-nunes-teixeira-276b4415b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-   
- 
+  <a href="https://www.linkedin.com/in/matheus-ganzala-nunes-teixeira-276b4415b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
