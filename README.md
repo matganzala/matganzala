@@ -6,7 +6,7 @@ Hello World!! 👋👋
    
   
 <div style="display: inline_block">
-  <h4>🛠  Tech Stack 🛠  </h4>
+  <h4>🛠  Technologies being used by me 🛠  </h4>
   <img align="center" alt="mat-Js" height="30" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mat-ts" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />   
   <img align="center" alt="mat-react" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" >
