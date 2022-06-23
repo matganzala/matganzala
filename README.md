@@ -10,6 +10,7 @@ Hello World!! 👋👋
   <img align="center" alt="mat-Js" height="30" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mat-ts" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />   
   <img align="center" alt="mat-react" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" >
+  <img align="center" alt="mat-jquery" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" >  
   <img align="center" alt="mat-boot" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />   
   <img align="center" alt="mat-html" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="mat-CSS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
