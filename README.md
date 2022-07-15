@@ -14,7 +14,7 @@ Hello World!! 👋👋
   <img align="center" alt="mat-CSS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
   <img align="center" alt="mat-linux" height="20" width="20" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />  
   <img align="center" alt="mat-git" height="20" width="20" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
- />
+ 
  </div> 
  <br>
   
