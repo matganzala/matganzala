@@ -18,7 +18,7 @@ Hello World!! 👋👋
   <img align="center" alt="mat-linux" height="20" width="20" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="mat-java" height="20" width="20" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="mat-mondodb" height="20" width="20" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="center" alt="mat-node" height="20" width="20" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" />
+  <img align="center" alt="mat-node" height="20" width="20" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
               
  </div> 
  <br>
