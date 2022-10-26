@@ -22,5 +22,6 @@ Hello World!! 👋👋
   
  <div style "display: inline-block">
   <a height="30" width="30" href="https://www.linkedin.com/in/matheus-ganzala-nunes-teixeira-276b4415b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matganzala&theme=radical)](https://github.com/matganzala/github-readme-stats)
 </div>
 
