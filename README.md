@@ -6,8 +6,7 @@ Hello World!! 👋👋
   
 <div style="display: inline_block">
   <h4>🛠 Technologies  🛠  </h4>
-  <img align="center" alt="mat-linux" height="20" width="20" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="mat-java" height="20" width="20" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="mat-linux" height="20" width="20" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />  
   <img align="center" alt="mat-ts" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />   
   <img align="center" alt="mat-react" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" > 
   <img align="center" alt="mat-boot" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />  
