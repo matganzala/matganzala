@@ -2,15 +2,16 @@ Hello World!! 👋👋
 
 <div>
   <a href="https://github.com/matganzala">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matganzala&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matganzala&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matganzala&theme=dark)](https://github.com/matganzala/github-readme-stats)
   
 <div style="display: inline_block">
   <h4>🛠 Technologies  🛠  </h4>
   <img align="center" alt="mat-linux" height="20" width="20" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />  
-  <img align="center" alt="mat-ts" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />   
-  <img align="center" alt="mat-react" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" > 
-  <img align="center" alt="mat-boot" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />  
-  <img align="center" alt="mat-git" height="20" width="20" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />         
+  <img src="https://img.icons8.com/fluency/48/000000/typescript--v1.png"/>  
+  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>  
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>         
  </div> 
  <br>
   
