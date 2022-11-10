@@ -7,13 +7,11 @@ Hello World!! 👋👋
 </div>
 <br>
 <div style="display: inline_block">   
-  <img src="https://img.icons8.com/color/48/null/linux--v1.png"/>
-  <img src="https://img.icons8.com/color/48/null/c-programming.png"/>
+  <img src="https://img.icons8.com/color/48/null/linux--v1.png"/>  
   <img src="https://img.icons8.com/fluency/48/000000/typescript--v1.png"/>  
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>  
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/null/nextjs.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>  
  </div> 
  <br>
 <div style "display: inline-block">
