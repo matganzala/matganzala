@@ -9,27 +9,13 @@ Hello World!! 👋👋
 <div style="display: inline_block">   
   <img src="https://img.icons8.com/fluency/48/000000/typescript--v1.png"/>  
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <img src="https://img.icons8.com/color/48/null/material-ui.png"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/> 
 </div>
 <br>
-<p>Studying in free time:</p>
-<div>
-  <img src="https://img.icons8.com/color/48/null/c-sharp-logo.png"/>
-  <img src="https://img.icons8.com/color/48/null/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/null/net-framework.png"/>
-  <img src="https://img.icons8.com/fluency/48/null/visual-studio.png"/>
-</div>
-<br>
-<p>Use to work with:</p>
-<div>
-  <img src="https://img.icons8.com/color/48/null/python--v1.png"/>
-  <img src="https://img.icons8.com/color/48/null/postgreesql.png"/>
- </div>
- <br>
+
 <div style "display: inline-block">
     <a height="30" width="30" href="https://www.linkedin.com/in/matheus-ganzala-nunes-teixeira-276b4415b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
