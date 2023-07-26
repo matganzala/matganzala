@@ -5,11 +5,14 @@ Hello World!! 👋👋
   <a href="https://github.com/matganzala">
 </div>
 <br>
-<p>Technologies I use in my work:</p>
+<p>My Skills:</p>
 <div style="display: inline_block">   
-  <img src="https://img.icons8.com/fluency/48/000000/typescript--v1.png"/>  
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+  <img src="https://img.icons8.com/fluency/48/000000/typescript--v1.png"/> 
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
+  <img src="https://img.icons8.com/fluency/48/tailwind_css.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>  
 </div>
 <br>
