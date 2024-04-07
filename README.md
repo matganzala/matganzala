@@ -10,7 +10,7 @@ Hello World!! 👋👋
   <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
   <img src="https://img.icons8.com/fluency/48/000000/typescript--v1.png"/> 
   <img src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="c#"/>
-  <img src="https://img.icons8.com/color/48/000000/vue.png"/>
+  <img src="https://img.icons8.com/color/48/vue-js.png"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
   <img src="https://img.icons8.com/fluency/48/tailwind_css.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>  
