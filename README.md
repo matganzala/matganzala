@@ -1,14 +1,8 @@
 
-<p>Working with:</p>
 <div style="display: inline_block">   
-  <img src="https://img.icons8.com/fluency/48/000000/typescript--v1.png"/> 
-  <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
-  <img src="https://img.icons8.com/color/48/vue-js.png"/>
-  <img src="https://img.icons8.com/color/48/firebase.png"/>
-  <img src="https://img.icons8.com/fluency/48/tailwind_css.png"/>
-  <img src="https://img.icons8.com/fluency/48/bootstrap.png"/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,ubuntu,nodejs,react,vue,git,firebase" /></a>
 </div>
+
 <br>
 
 <div style "display: inline-block">
