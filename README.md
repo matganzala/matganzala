@@ -1,6 +1,6 @@
 
 <div style="display: inline_block">   
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,ubuntu,nodejs,react,vue,git,firebase" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,ubuntu,nodejs,react,vue,git,firebase,jest" /></a>
 </div>
 
 <br>
