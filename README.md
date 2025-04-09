@@ -1,7 +1,13 @@
- <p>Languages, tools, frameworks that I use or have used:</span>
+ <p>Languages, tools, frameworks that i already worked:</span>
 <div style="display: inline_block">   
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,ts,js,python,bootstrap,tailwind,ubuntu,dotnet,nodejs,react,vue,git,firebase,gcp,jest,docker,selenium,mysql,nextjs" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,ts,js,bootstrap,ubuntu,dotnet,nodejs,react,firebase,gcp,jest,nextjs" /></a>
 </div>
+
+ <p>I working now:</span>
+ <div style="display: inline_block">   
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,python,flask,tailwind,vue,git,docker,selenium,mysql" /></a>
+</div>
+
 
 <br>
 
