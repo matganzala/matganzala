@@ -1,9 +1,9 @@
- <p>Languages, tools, frameworks that i already worked:</span>
+ <h1>Languages, tools, frameworks that i already worked:</h1>
 <div style="display: inline_block">   
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,ts,js,bootstrap,ubuntu,dotnet,nodejs,react,firebase,gcp,jest,nextjs" /></a>
 </div>
 
- <p>I working now:</span>
+ <h1>I working now:</h1>
  <div style="display: inline_block">   
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,python,flask,tailwind,vue,git,docker,selenium,mysql" /></a>
 </div>
